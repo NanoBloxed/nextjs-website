@@ -10,7 +10,7 @@ export default function Home() {
         <title>Nanoblox</title>
         <meta
           name="description"
-          content="Nanoblox is an administration suite powering dynamic roles, modular commands, global broadcasts, moderation, monetization, audit logs, and more, used by many top Roblox games."
+          content="Nanobloxed is an administration suite powering dynamic roles, modular commands, global broadcasts, moderation, monetization, audit logs, and more, used by many top Roblox games."
         />
       </Head>
       <FadedNavigationBar />
@@ -22,8 +22,7 @@ export default function Home() {
           <div className="mt-16 w-full px-8 sm:px-12 md:px-14 lg:px-16 xl:px-32 2xl:px-40">
             <div className="py-2 px-8 bg-orange-500 text-center text-white rounded-lg">
               The statistics and games on this website are for testing purposes
-              and currently do not reflect the true state of Nanoblox while it's
-              still under development.
+              and currently do not reflect the true state of Nanoblox while it's still under development.
             </div>
           </div>
           <div className="mx-auto flex flex-col container">
